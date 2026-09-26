@@ -1,0 +1,7 @@
+﻿.venv/
+dataset/
+output/test_blocking.sqlite
+output/training_features.tsv
+output/training_pairs.tsv
+__pycache__/
+*.pyc
